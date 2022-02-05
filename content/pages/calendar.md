@@ -4,28 +4,299 @@ title: Calendar
 uid: 8b429515-cd8f-b23a-f626-56a2a4d0799d
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction |  |
-| 2 | Topic Segmentation: Agreement, Evaluation, Automatic Text Segmentation |  |
-| 3 | Topic Segmentation (cont.): Hierarchical Text Segmentation, Meeting Segmentation |  |
-| 4 | Cohesion and Local Coherence: Lexical Chains, Centering Theory; Applications to Automated Essay Scoring |  |
-| 5 | Automatic Reference Resolution |  |
-| 6 | Automatic Reference Resolution and Reference Generation |  |
-| 7 | Generation of Referring Expressions |  |
-| 8 | Domain-dependent Models of Text Structure |  |
-| 9 | Rhetorical Structure Theory  {{< br >}}Guest Speaker: Florian Wolf | First part of the project due |
-| 10 | Discourse Structure in Text Summarization; Alignment |  |
-| 11 | Temporal Ordering in Discourse |  |
-| 12 | Prosody and Discourse  {{< br >}}Guest Speaker: Chao Wang |  |
-| 13 | Intentions and the Structure of Discourse |  |
-| 14 | Studies of Dialogues; Taxonomy of Speech Acts |  |
-| 15 | Automatic Interpretation of Dialogue Acts |  |
-| 16 | Learning Dialogue Strategies via Reinforcement Learning |  |
-| 17 | MIT Dialogue Systems | Second part of the project due |
-| 18 | Dialogue Systems |  |
-| 19 | Plan Recognition |  |
-| 20 | Evaluation for Discourse Processing |  |
-| 21 | Discourse in Psycholinguistics |  |
-| 22 | TBA | Last part of the project due |
-| 23-24 | Project Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Topic Segmentation: Agreement, Evaluation, Automatic Text Segmentation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Topic Segmentation (cont.): Hierarchical Text Segmentation, Meeting Segmentation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Cohesion and Local Coherence: Lexical Chains, Centering Theory; Applications to Automated Essay Scoring
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Automatic Reference Resolution
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Automatic Reference Resolution and Reference Generation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Generation of Referring Expressions
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Domain-dependent Models of Text Structure
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Rhetorical Structure Theory  
+Guest Speaker: Florian Wolf
+{{< tdclose >}}
+{{< tdopen >}}
+First part of the project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Discourse Structure in Text Summarization; Alignment
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Temporal Ordering in Discourse
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Prosody and Discourse  
+Guest Speaker: Chao Wang
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Intentions and the Structure of Discourse
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Studies of Dialogues; Taxonomy of Speech Acts
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Automatic Interpretation of Dialogue Acts
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Learning Dialogue Strategies via Reinforcement Learning
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+MIT Dialogue Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Second part of the project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Dialogue Systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Plan Recognition
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Evaluation for Discourse Processing
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Discourse in Psycholinguistics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+TBA
+{{< tdclose >}}
+{{< tdopen >}}
+Last part of the project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
