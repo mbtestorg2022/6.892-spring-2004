@@ -7,7 +7,7 @@ uid: 891779c5-96e0-76ec-ae6f-b59d56e0da88
 Classes on Discourse Processing in Other Universities
 -----------------------------------------------------
 
-Barbara Grosz: Computational Models of Discourse (Harvard) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.seas.harvard.edu/courses/cs288/handouts/references.pdf))
+Barbara Grosz: Computational Models of Discourse (Harvard) ([PDF](http://www.seas.harvard.edu/courses/cs288/handouts/references.pdf))
 
 Discourse Corpora
 -----------------
