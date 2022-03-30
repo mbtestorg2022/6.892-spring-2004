@@ -5,6 +5,7 @@ description: 'Lecture presentation covering the following topics: overview of na
   and selection of referring expressions.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-892-computational-models-of-discourse-spring-2004/b4dc352cd1e1271637d3e81e92ebdecc_lec07.pdf
 file_type: application/pdf
+parent_uid: 60d1924f-7823-1aed-404a-a8cca822467b
 resourcetype: Document
 title: lec07.pdf
 uid: b4dc352c-d1e1-2716-37d3-e81e92ebdecc
